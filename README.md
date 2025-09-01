@@ -39,4 +39,6 @@ Each training and test example is assigned to one of the following labels:<br>
 - Recommended Setup: For the best experience, **run this notebook on [Google Colab](https://colab.research.google.com/)** 
 - In Colab, **enable GPU support** by going to: `Runtime > Change runtime type > Hardware accelerator > GPU`
 
+
+#### Special thanks to: Korbinian Robert Randl, PhD Student at DSV, SU, who teaches me patiently about Neural Networks
 ---
