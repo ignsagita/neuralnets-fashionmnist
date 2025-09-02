@@ -31,7 +31,7 @@ Each training and test example is assigned to one of the following labels:<br>
 The dataset has the same properties as a normal MNIST, but has more complexity than normal MNIST. In normal MNIST, a simple linear model reaches about 92% accuracy, but only about 83% on Fashion MNIST. Moreover, MNIST is overused. In this April 2017 Twitter thread, Google Brain research scientist and deep learning expert Ian Goodfellow calls for people to move away from MNIST. In addition, MNIST can not represent modern CV tasks, as noted in this April 2017 Twitter thread, deep learning expert/Keras author François Chollet.
 
 ## Quick Start
-- Clone this repository: git clone https://github.com/ignsagita/class-nn_cnn-fashionmnist.git cd class-nn_cnn-fashionmnist
+- Clone this repository: git clone https://github.com/ignsagita/neuralnets-fashionmnist.git cd neuralnets-fashionmnist
 - Install dependencies pip install -r requirements.txt
 - Recommended Setup: For the best experience, **run this notebook on [Google Colab](https://colab.research.google.com/)** 
 - In Colab, **enable GPU support** by going to: `Runtime > Change runtime type > Hardware accelerator > GPU`
